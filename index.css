@@ -1,0 +1,11 @@
+#container {
+  position: relative;
+  margin-top: 50px;
+}
+
+#animate {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: blue;
+}
